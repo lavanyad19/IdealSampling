@@ -1,7 +1,7 @@
 ## Name: Lavanya D
 ## Reg: 212224060133
 # Exp no: 1
-# Exp name: Ideal, Natural & Flat-Top Sampling
+# Exp name: Simulation of Signal sampling using various types(Ideal, Natural & Flat-Top Sampling)
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
